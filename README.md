@@ -6,6 +6,20 @@ This project demonstrates **binary logistic regression** in R using the classic 
 > Created by [ManneUdayKiran](https://github.com/ManneUdayKiran)
 
 ---
+##  Two Legendary Datasets in R
+
+
+###  1. `mtcars` – *Linear Regression*
+- **Goal**: Predict car MPG using horsepower and weight.
+- **Techniques**: Linear modeling, residual analysis, prediction plotting.
+- **Result**: Model trained and visualized in `mpg_prediction_plot.png`.
+
+### 2. `iris` – *Logistic Regression*
+- **Goal**: Classify Setosa vs non-Setosa using petal dimensions.
+- **Techniques**: Binary logistic regression, confusion matrix, color-coded scatter plot.
+- **Result**: Model evaluated and plotted in `logistic_classification_plot.png`.
+
+---
 
 ## 📁 Project Structure
 
