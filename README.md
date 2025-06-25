@@ -33,15 +33,15 @@ Regression\_Analyasis/
 
 1. Open the script in **R** or **RStudio**.
 2. Set the working directory to this folder:
-   ```r
+
    setwd("C:/Users/udayk/OneDrive/Desktop/Regression_Analyasis")
-````
+
 
 3. Run the script:
 
-   ```r
+   
    source("logistic_regression_iris.R")
-   ```
+
 
 ---
 
@@ -50,6 +50,7 @@ Regression\_Analyasis/
 Classification result visualization:
 
 ![Logistic Classification Plot](plots/logistic_classification_plot.png)
+![Logistic Classification Plot](plots/mpg_prediction_plot.png)
 
 ---
 
